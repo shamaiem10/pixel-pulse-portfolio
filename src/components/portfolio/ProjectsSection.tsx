@@ -34,6 +34,14 @@ const projects = [
     description:
       "Mood sentiment analysis, OCR prescription scanning, real-time health dashboards.",
   },
+  {
+    name: "ServeSpace",
+    subtitle: "Volunteer Management Web Application",
+    github: "https://github.com/shamaiem10/ServeSpace",
+    tech: ["Django", "SQL", "Bootstrap", "JavaScript"],
+    description:
+      "A comprehensive platform that helps organizations manage volunteers, track hours, and schedule events efficiently. Built with a focus on user experience and administrative functionality.",
+  },
 ];
 
 const ProjectsSection = () => {
