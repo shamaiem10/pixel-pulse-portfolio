@@ -6,7 +6,6 @@ const badges = [
   "RESTful APIs",
   "Cloud Deployment",
   "Scalable Systems",
-  "LLM Integration",
 ];
 
 const AboutSection = () => {

@@ -3,10 +3,6 @@ import { GraduationCap, Trophy, Award, ExternalLink } from "lucide-react";
 
 const achievements = [
   "Quaid-e-Azam Merit Scholarship",
-  "MIT Winter Contest 2025 — Shortlisted",
-  "Neuravia Hacks 2025 — Vytal",
-  "CS Girlies Hackathon — Persona",
-  "50+ GitHub repositories",
 ];
 
 const certifications = [
@@ -36,7 +32,7 @@ const EducationSection = () => {
               <p className="text-sm text-muted-foreground">
                 National University of Sciences & Technology (NUST)
               </p>
-              <p className="text-xs text-muted-foreground mt-1">2023 – 2027 • CGPA: 3.06 / 4.0</p>
+              <p className="text-xs text-muted-foreground mt-1">2023 – 2027</p>
             </div>
           </div>
         </div>
