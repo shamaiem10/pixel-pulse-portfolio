@@ -2,10 +2,10 @@ import useFadeIn from "@/hooks/useFadeIn";
 import { GraduationCap, Trophy, Award, ExternalLink, Star } from "lucide-react";
 
 const certifications = [
-  { name: "AI For Everyone — DeepLearning.AI", url: "https://www.coursera.org/account/accomplishments/verify/YOUR_ID_1" },
-  { name: "Data Analysis with Python — IBM", url: "https://www.coursera.org/account/accomplishments/verify/YOUR_ID_2" },
-  { name: "Python for Data Science, AI & Development — IBM", url: "https://www.coursera.org/account/accomplishments/verify/YOUR_ID_3" },
-  { name: "Flask for Beginners — IBM", url: "https://www.coursera.org/account/accomplishments/verify/YOUR_ID_4" },
+  { name: "AI For Everyone — DeepLearning.AI", url: "https://drive.google.com/file/d/1b5cm4-rNawkpWhWrzaQrI_AHNYL7KBzh/view" },
+  { name: "Data Analysis with Python — IBM", url: "https://drive.google.com/file/d/1LwM401HXy7-Bz01yr9vTkgVHTo_LpsVd/view" },
+  { name: "Python for Data Science, AI & Development — IBM", url: "https://drive.google.com/file/d/1-b_xRRbAFiek4w1jajoUzaDJP_PI_qvJ/view" },
+  { name: "Flask for Beginners — Coursera", url: "https://drive.google.com/file/d/1c9OcwSJF78o79p0hXNjgblPqnE6Wh6uM/view" },
 ];
 
 const EducationSection = () => {

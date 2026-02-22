@@ -13,7 +13,7 @@ const experiences = [
     role: "Research Intern",
     company: "Data Science & ML Lab, NUST",
     period: "Oct 2025 – Present",
-    points: ["Post-hoc XAI method research", "ML integration pipelines", "Cloud-deployed AI systems"],
+    points: ["Post-hoc XAI method research", "ML integration pipelines"],
     type: "Research",
   },
   {
