@@ -15,7 +15,7 @@ const categories = [
   },
   {
     title: "AI / ML",
-    items: ["Python", "Machine Learning", "LLMs (OpenAI, Groq, HuggingFace)", "OCR"],
+    items: ["Python", "Machine Learning", "LLMs (OpenAI, Groq, HuggingFace)", "OCR", "Scikit-learn", "NumPy", "Pandas"],
   },
   {
     title: "Databases",

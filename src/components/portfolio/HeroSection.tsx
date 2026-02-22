@@ -4,7 +4,7 @@ const socials = [
   { icon: Github, href: "https://github.com/shamaiem10", label: "GitHub" },
   { icon: Linkedin, href: "https://linkedin.com/in/shamaiem-shabbir", label: "LinkedIn" },
   { icon: Mail, href: "mailto:shamaiemshabbir2@gmail.com", label: "Email" },
-  { icon: Globe, href: "https://shamaiem.netlify.app", label: "Portfolio" },
+  { icon: Globe, href: "https://devpost.com/shamaiem10", label: "Devpost" },
 ];
 
 const HeroSection = () => {
@@ -41,12 +41,6 @@ const HeroSection = () => {
             className="pixel-border-pink bg-primary/10 text-primary px-6 py-3 text-xs font-medium hover:bg-primary/20 transition-colors"
           >
             View Projects
-          </a>
-          <a
-            href="#"
-            className="pixel-border bg-muted text-foreground px-6 py-3 text-xs font-medium hover:bg-muted/80 transition-colors"
-          >
-            Download CV
           </a>
         </div>
 
